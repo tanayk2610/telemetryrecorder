@@ -1,0 +1,7 @@
+domain: run.tanzu.vmware.com
+repo: telemetryrecord.run.tanzu.vmware.com
+resources:
+- group: run.tanzu.vmware.com
+  kind: TelemetryRecord
+  version: v1beta1
+version: "2"
